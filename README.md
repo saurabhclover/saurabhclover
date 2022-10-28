@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhclover
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently learning ReactJS
 
 <!---
 saurabhclover/saurabhclover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
